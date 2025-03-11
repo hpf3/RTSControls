@@ -2,13 +2,13 @@
   "id": "rtscontrols",
   "title": "RTS Controls",
   "description": "This module will attempt to add RTS like controls to token movement using the Routinglib library.",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
     "minimum": 11,
     "verified": 11,
-    "maximum": 30
+    "maximum": 12
   },
   "authors": [
     {
